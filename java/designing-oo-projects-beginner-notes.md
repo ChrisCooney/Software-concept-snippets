@@ -1,4 +1,4 @@
-**1) Nouns and Verbs**
+## 1) Nouns and Verbs
 
 *Identify nouns and verbs in problem description. I used this awesome syntax highlighter to do it for me: https://english.edward.io*
 
@@ -37,7 +37,7 @@
 - Remember active product lines [System, report, products, staff]
 - Remember stock quantities [System, catalogue, basket, staff, customer, report]
 
-**2) Identify Main Actors**
+## 2) Identify Main Actors
 
 *Main actors are people, things or external hardware that have a role, or interaction story within the program.*
 
@@ -48,7 +48,7 @@
 - **Report** is an actor that saves important and meaningful data throughout the lifecycle of the program, and then prints a downloadable text file of this data at the end of the program.
 
 
-**3) User Stories and Use Case Diagram for main actors**
+## 3) User Stories and Use Case Diagram for main actors
 
 ***Customer User Story***
 
@@ -116,7 +116,7 @@ This diagram allows me to get a clear overview of all of the classes in my progr
 
 ![Shoppy Class Diagram](https://trello-attachments.s3.amazonaws.com/5bcc79d13e179d8b74777a59/5bdc49ccb7cfb2869d4b294b/387f2eb16ac2da865322d331e001c429/Shoppy_Class_Diagram.png)
 
-**5) Create a sequence diagram**
+## 5) Create a sequence diagram
 
 Sequence based diagrams allow you to document the order in which events happen in your program. For simple programs, you can use one sequence diagram to represent the whole thing. For more complicated programs, you can use sequence diagrams to represent smaller scenarios within your program. 
 
